@@ -6,6 +6,3 @@ My name is Julio and I’m a front-end web developer with a passion for building
 
 #### 💻 Technologies that I use
 ![HTML5](./assets/html.svg) ![CSS3](./assets/css.svg) ![SASS](./assets/sass.svg) ![Bootstrap](./assets/bootstrap.svg) ![TailwindCSS](./assets/tailwind.svg) ![JavaScript](./assets/javascript.svg) ![React](./assets/react.svg)
-
-#### 🙏 Are you feeling generous?
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/juliocodes)
